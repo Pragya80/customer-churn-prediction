@@ -1,0 +1,12 @@
+# Virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Data artifacts
+*.pkl
+*.joblib
+
+# OS files
+.DS_Store
+Thumbs.db
